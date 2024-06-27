@@ -1,5 +1,5 @@
-- tab: "print-escaping"
+- tab: "variabelen"
   testcases:
-    - expression: 'b = 5'
-    - expression: 'a = 5'
-    - stdout: 25
+  - stdin: 5
+  - stdin: 4
+  - stdout: 9
