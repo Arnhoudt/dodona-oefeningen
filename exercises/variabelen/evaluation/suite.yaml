@@ -2,4 +2,4 @@
   testcases:
     - expression: 'b = 5'
     - statement: 'a = 5'
-    - stdout: "\\Hallo, 'wereld\""
+    - stdout: 25

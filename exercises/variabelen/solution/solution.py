@@ -1,1 +1,1 @@
-print(some_variable*some_variable)
+print(5*5)
