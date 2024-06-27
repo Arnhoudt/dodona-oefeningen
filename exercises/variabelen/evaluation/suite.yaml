@@ -1,4 +1,5 @@
 - tab: "print-escaping"
   testcases:
-    - expression: "some_variable = 5"
-    - stdout: 25
+    - statement: 'a = 5'
+    - expression: 'b = 5'
+    - stdout: "\\Hallo, 'wereld\""
