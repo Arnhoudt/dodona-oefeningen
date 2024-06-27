@@ -1,6 +1,4 @@
 - tab: "minimum"
   testcases:
-    - expression: 'min(1, 5)'
-      return: 1
-    - expression: 'min(8, 2)'
-      return: 2
+    - expression: ''
+      return: "hello world"

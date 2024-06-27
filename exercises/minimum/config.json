@@ -1,13 +1,18 @@
 {
   "description": {
     "names": {
-      "en": "Echo function",
-      "nl": "Echofunctie"
+      "nl": "Minimum"
     }
   },
   "labels": [
     "template"
-  ],
+  ], 
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
   "internals": {
     "token": "Fkw--JQg9gv-_uzdtru6g4JTgSsfmpA49qI-PukCu4rkcZvdbZh8SETf6B_r65Yg",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
