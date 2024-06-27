@@ -1,4 +1,3 @@
 - tab: "minimum"
   testcases:
-    - expression: ''
-      return: "hello world"
+    - stdout: "hello world"
