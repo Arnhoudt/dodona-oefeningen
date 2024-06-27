@@ -1,4 +1,4 @@
 - tab: "print-escaping"
   testcases:
-    - expression: some_variable = 5
+    - expression: "some_variable = 5"
     - stdout: 25
