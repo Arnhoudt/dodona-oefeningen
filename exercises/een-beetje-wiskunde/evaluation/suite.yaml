@@ -1,0 +1,3 @@
+- tab: "wiskunde"
+  testcases:
+    - stdout: "9"
