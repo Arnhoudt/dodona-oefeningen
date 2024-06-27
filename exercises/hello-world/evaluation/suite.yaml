@@ -1,0 +1,3 @@
+- tab: "hello world"
+  testcases:
+    - stdout: "hello world!"

@@ -1,12 +1,9 @@
 {
   "description": {
     "names": {
-      "nl": "Minimum"
+      "nl": "Hello world!"
     }
   },
-  "labels": [
-    "template"
-  ], 
   "evaluation": {
     "handler": "tested",
     "test_suite": "suite.yaml"
