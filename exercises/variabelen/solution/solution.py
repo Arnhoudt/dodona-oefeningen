@@ -1,1 +1,1 @@
-print(a+b)
+print(some_variable*some_variable)
