@@ -1,0 +1,1 @@
+Schrijf een print functie die 2 variabelen plus elkaar doet
