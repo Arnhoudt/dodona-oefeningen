@@ -1,5 +1,7 @@
 - tab: "print-escaping"
   testcases:
-    - statement: 'a = 5'
-    - statement: 'b = 5'
-    - stdout: "\\Hallo, 'wereld\""
+    - statement:
+        python:'a = 5'
+    - statement:
+        python:'b = 5'
+    - stdout: 25
