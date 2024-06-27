@@ -1,5 +1,5 @@
 - tab: "print-escaping"
   testcases:
-    - statement: 'a = 5'
     - expression: 'b = 5'
+    - statement: 'a = 5'
     - stdout: "\\Hallo, 'wereld\""
