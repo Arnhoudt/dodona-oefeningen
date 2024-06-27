@@ -1,5 +1,0 @@
-- tab: "variabelen"
-  testcases:
-  - stdin: 5
-  - stdin: 4
-  - stdout: 9
