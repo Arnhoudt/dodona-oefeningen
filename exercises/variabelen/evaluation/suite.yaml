@@ -1,5 +1,5 @@
 - tab: "print-escaping"
   testcases:
-    - expression: 'b = 5'
+    - statement: 'b = 5'
     - statement: 'a = 5'
     - stdout: 25
