@@ -1,0 +1,5 @@
+- tab: "werken-met-variabelen"
+  testcases:
+    - stdin: 5
+    - stdin: 5
+    - stdout: 10
