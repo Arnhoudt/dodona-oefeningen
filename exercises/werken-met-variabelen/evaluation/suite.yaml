@@ -1,5 +1,4 @@
 - tab: "werken-met-variabelen"
   testcases:
-    - stdin: "5"
-    - stdin: "5"
-    - stdout: "10"
+    - stdin: ["5","5"]
+      stdout: "10"
