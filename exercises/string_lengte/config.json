@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Echo functie"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "PTVmmkdQnvZYyZZqzFtmG7792HrJUGtkagYFKIvIcK_RDxqS3gyB-RqFpN-4P5-R",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
