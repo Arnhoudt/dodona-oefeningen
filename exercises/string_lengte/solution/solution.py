@@ -1,2 +1,4 @@
-def echo(content):
-    return content
+a = len(input())
+b = len(input())
+
+print(min(a,b))

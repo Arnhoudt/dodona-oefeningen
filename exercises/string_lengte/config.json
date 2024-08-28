@@ -1,12 +1,12 @@
 {
   "description": {
     "names": {
-      "nl": "Echo functie"
+      "nl": "Lengte van de kortste string"
     }
   },
   "labels": [
-    "template"
-  ],
+    
+      ],
   "evaluation": {
     "handler": "tested",
     "test_suite": "suite.yaml"
