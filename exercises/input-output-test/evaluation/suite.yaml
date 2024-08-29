@@ -1,14 +1,6 @@
 - tab: "Testen"
   testcases:
-    - stdin: "Jan"
-      stdout: "Hallo, Jan!"
-    - stdin: "Piet"
-      stdout: "Hallo, Piet!"
-    - stdin: "5236-hallo!"
-      stdout: "Hallo, 5236-hallo!!"
-    - stdin: "'wereld'"
-      stdout: "Hallo, 'wereld'!"
-    - stdin: '"wereld"'
-      stdout: 'Hallo, "wereld"!'
-    - stdin: "    "
-      stdout: "Hallo,     !"
+    - stdin: "Jan\nBert"
+      stdout: "Hallo, Jan en Bert!"
+    - stdin: "Piet\nBert"
+      stdout: "Hallo, Piet en Bert!"
