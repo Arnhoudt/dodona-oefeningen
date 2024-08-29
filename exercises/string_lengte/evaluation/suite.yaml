@@ -1,8 +1,8 @@
 - tab: "string lengte"
   testcases:
-    - stdin: ["hallo","test"]
+    - stdin: "hallo\ntest"
       stdout: 4
-    - stdin: ["hallo","wereld"]
+    - stdin: "hallo\nwereld"
       stdout: 5
-    - stdin: ["een","test"]
+    - stdin: "een\ntest"
       stdout: 3
