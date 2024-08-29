@@ -1,6 +1,8 @@
-- tab: "Testen"
+- tab: "string lengte"
   testcases:
-    - stdin: "Jan\nBert"
-      stdout: "Hallo, Jan en Bert!"
-    - stdin: "Piet\nBert"
-      stdout: "Hallo, Piet en Bert!"
+    - stdin: "hallo\ntest"
+      stdout: "4"
+    - stdin: "hallo\nwereld"
+      stdout: "5"
+    - stdin: "een\ntest"
+      stdout: "3"
