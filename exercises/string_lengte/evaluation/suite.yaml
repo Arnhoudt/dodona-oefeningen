@@ -1,4 +1,6 @@
-- tab: "string lengte"
+- tab: "Testen"
   testcases:
-    - stdin: "hallo"
-      stdout: 4
+    - stdin: "Jan\nBert"
+      stdout: "Hallo, Jan en Bert!"
+    - stdin: "Piet\nBert"
+      stdout: "Hallo, Piet en Bert!"
