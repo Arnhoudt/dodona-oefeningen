@@ -9,5 +9,9 @@
     "example",
     "database"
   ],
-  "type": "exercise"
+  "type": "exercise",
+  "internals": {
+    "token": "sKPz3fpGAB3_zuKGNskNx6CUEdU-wiBjqkvEirBz9aw9zsA6ik54rbFt4cxNFeD8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
