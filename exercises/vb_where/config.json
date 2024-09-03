@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "en": "Example WHERE",
+      "nl": "Voorbeeld WHERE"
+    }
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "type": "exercise"
+}
