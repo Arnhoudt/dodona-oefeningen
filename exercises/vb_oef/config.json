@@ -4,6 +4,9 @@
       "nl": "Selecteer alle oefeningen uit de database"
     }
   },
+  "database_files": [
+    "./evaluation/Toets1.sqlite"
+  ],
   "labels": [
     "example",
     "database"
