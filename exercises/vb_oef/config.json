@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "nl": "Selecteer alle oefeningen uit de database"
+    }
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "type": "exercise"
+}
