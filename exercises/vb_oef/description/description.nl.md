@@ -1,1 +1,1 @@
-Selecteer alle gegevens van alle leerlingen in de tabel leerlingen
+Selecteer alle gegevens van alle leerlingen in de tabel leerlingen 2
