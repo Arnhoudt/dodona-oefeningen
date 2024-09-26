@@ -1,0 +1,6 @@
+- tab: "string lengte"
+  testcases:
+    - stdin: "5\n35\n200"
+      stdout: "8u55"
+    - stdin: "5\n35\n1200"
+      stdout: "1u35"
