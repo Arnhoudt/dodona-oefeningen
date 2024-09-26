@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hallo persoon"
+    }
+  },
+  "labels": [
+
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private"
+}
