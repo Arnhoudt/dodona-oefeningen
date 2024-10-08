@@ -6,5 +6,5 @@
       stdout: "1"
     - stdin: "11\n5\n45"
       stdout: "0"
-    - stdin: "6\n45\n20"
+    - stdin: "6\n25\n20"
       stdout: "1"
