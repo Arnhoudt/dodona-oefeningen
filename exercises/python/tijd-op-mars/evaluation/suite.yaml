@@ -4,7 +4,7 @@
       stdout: "Als er op Aarde  5  dagen,  0  uren en  0  minuten voorbij zijn gegaan, zullen er op deze planeet  4  dagen,  21  uren en  24  minuten verstreken zijn."
     - stdin: "24\n0\n5\n10\n30"
       stdout: "Als er op Aarde  5  dagen,  10  uren en  30  minuten voorbij zijn gegaan, zullen er op deze planeet  5  dagen,  10  uren en  30  minuten verstreken zijn."
-    - stdin: "9\n55\n365\0\n0"
+    - stdin: "9\n55\n365\n0\n0"
       stdout: "Als er op Aarde  365  dagen,  0  uren en  0  minuten voorbij zijn gegaan, zullen er op deze planeet  883  dagen,  3  uren en  35  minuten verstreken zijn."
     - stdin: "15\n57\n31\n10\n40"
       stdout: "Als er op Aarde  31  dagen,  10  uren en  40  minuten voorbij zijn gegaan, zullen er op deze planeet  47  dagen,  5  uren en  1  minuten verstreken zijn."
