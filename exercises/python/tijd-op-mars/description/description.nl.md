@@ -10,7 +10,7 @@ De lengte van een dag op Mars verschilt van die op Aarde. Op Mars duurt een dag 
   - Aantal minuten die op Aarde zijn verstreken: 0
 
 - **Output:** 
-  - Als er op Aarde 5 dagen, 0 uren en 0 minuten voorbij zijn gegaan, zullen er op deze planeet 4 dagen, 21 uren en 15 minuten verstreken zijn.
+  - Als er op Aarde 5 dagen, 0 uren en 0 minuten voorbij zijn gegaan, zullen er op deze planeet 4 dagen, 21 uren en 24 minuten verstreken zijn.
 
 ```console?lang=python=>>>
 input:
@@ -20,5 +20,5 @@ input:
 0
 0
 Output:
-Als er op Aarde 5 dagen, 0 uren en 0 minuten voorbij zijn gegaan, zullen er op deze planeet 4 dagen, 21 uren en 15 minuten verstreken zijn.
+Als er op Aarde 5 dagen, 0 uren en 0 minuten voorbij zijn gegaan, zullen er op deze planeet 4 dagen, 21 uren en 24 minuten verstreken zijn.
 ```
