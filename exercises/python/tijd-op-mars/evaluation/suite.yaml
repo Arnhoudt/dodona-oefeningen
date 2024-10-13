@@ -1,0 +1,4 @@
+- tab: "Testen"
+  testcases:
+    - stdin: "24\n39\n5\n0\n0"
+      stdout: "Als er op Aarde 5 dagen, 0 uren en 0 minuten voorbij zijn gegaan, zullen er op deze planeet 4 dagen, 21 uren en 15 minuten verstreken zijn."
