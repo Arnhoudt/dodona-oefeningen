@@ -10,5 +10,9 @@
   "evaluation": {
     "handler": "tested",
     "test_suite": "suite.yaml"
+  },
+  "internals": {
+    "token": "jGM6iU7wifm_rErVTRrmecBQN5ciGsQaSQCNkrdjs6z3GxmgSHMx2trMmX3Q5aiE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
