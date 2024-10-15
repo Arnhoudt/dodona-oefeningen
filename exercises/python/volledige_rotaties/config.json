@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "volledige rotaties"
+    }
+  },
+  "labels": [
+
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  }
+}
