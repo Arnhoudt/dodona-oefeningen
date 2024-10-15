@@ -4,5 +4,5 @@
       stdout: "2"
     - stdin: "5\n115"
       stdout: "1"
-    - stdin: "55\n65"
+    - stdin: "55\n125"
       stdout: "2"
