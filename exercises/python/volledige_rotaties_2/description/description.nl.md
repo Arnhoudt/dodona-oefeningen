@@ -8,7 +8,7 @@ Invoer:
 
 ```console?lang=python=>>>
 input:
-0
+60
 120
 Output:
 2
