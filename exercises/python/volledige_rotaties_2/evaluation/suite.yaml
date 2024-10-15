@@ -1,0 +1,8 @@
+- tab: "Testen"
+  testcases:
+    - stdin: "0\n120"
+      stdout: "2"
+    - stdin: "5\n115"
+      stdout: "1"
+    - stdin: "55\n65"
+      stdout: "2"
